@@ -122,6 +122,7 @@ public class LangProvider : INotifyPropertyChanged
             OnPropertyChanged(nameof(OutOf));
             OnPropertyChanged(nameof(PickIconWithName));
             OnPropertyChanged(nameof(PickSelected));
+            OnPropertyChanged(nameof(PortuguesePT));
             OnPropertyChanged(nameof(Poster));
             OnPropertyChanged(nameof(PosterOverlayTooltip));
             OnPropertyChanged(nameof(Professional));
