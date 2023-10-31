@@ -18,6 +18,7 @@ public static class CultureUtils
             { Languages.Spanish, "es-MX" },
             { Languages.Arabic, "ar-SA" },
             { Languages.Russian, "ru-RU" },
+            { Languages.Russian, "pt-PT" },
             { Languages.Hindi, "hi-IN" }
         };
 
