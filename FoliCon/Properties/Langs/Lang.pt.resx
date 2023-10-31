@@ -205,10 +205,10 @@
     <value>Criando Ícones...</value>
   </data>
   <data name="CustomIconSetter" xml:space="preserve">
-    <value>Definição do Ícon Personalizado</value>
+    <value>Definição do Ícone Personalizado</value>
   </data>
   <data name="CustomRating" xml:space="preserve">
-    <value>Classificação Personalizada: </value>
+    <value>Avaliação Personalizada: </value>
   </data>
   <data name="CustomRatingTooltip" xml:space="preserve">
     <value>Permite definir a sua própria classificação em vez da obtida pelo FoliCon.</value>
@@ -226,10 +226,10 @@
     <value>Eliminar info Media</value>
   </data>
   <data name="DeleteMediaInfoConfirmation" xml:space="preserve">
-    <value>Tem certeza que deseja eliminar todos os ficherios de info media da Folicon?</value>
+    <value>Tem certeza que deseja eliminar todos os ficheiros de info media da Folicon?</value>
   </data>
   <data name="DeleteMediaInfoTooltip" xml:space="preserve">
-    <value>Isto eliminar os ficheiros info de medio da Folicon que armazenam a identificação depois de ser selecionado o título pela primeira vez.
+    <value>Isto eliminará os ficheiros info de medio da Folicon que armazenam a identificação depois de ser selecionado o título pela primeira vez.
 Isto ajuda o Folicon a identificar os media sem ter que escolher de títulos ambíguos.</value>
   </data>
   <data name="DevelopedByDinesh" xml:space="preserve">
@@ -286,10 +286,10 @@ e pode adequar-se a 'Jogos,Filmes, e séries' e a qualquer ícones de media.</va
     <value>Jogo</value>
   </data>
   <data name="HaveIcons" xml:space="preserve">
-    <value>já existem os ícones?</value>
+    <value>Já existem ícones?</value>
   </data>
   <data name="HaveIconsTooltip" xml:space="preserve">
-    <value>Permite definir os seus ícones(Só png e ico permitidos).</value>
+    <value>Permite definir os seus ícones(Só .png e .ico permitidos).</value>
   </data>
   <data name="Help" xml:space="preserve">
     <value>Ajuda</value>
@@ -328,13 +328,13 @@ e pode adequar-se a 'Jogos,Filmes, e séries' e a qualquer ícones de media.</va
     <value>Ignorar</value>
   </data>
   <data name="IgnoreAmbiguousTitle" xml:space="preserve">
-    <value>Ignorar títulos Ambígous title</value>
+    <value>Ignorar títulos Ambígous</value>
   </data>
   <data name="InvalidPath" xml:space="preserve">
     <value>Caminho Inválido</value>
   </data>
   <data name="License" xml:space="preserve">
-    <value>Licença :</value>
+    <value>Licença:</value>
   </data>
   <data name="LicenseInfo" xml:space="preserve">
     <value>Licença Pública Geral GNU v3.0</value>
@@ -374,7 +374,7 @@ Changelog:{1}</value>
     <value>Sem ícones para aplicar</value>
   </data>
   <data name="NoInternet" xml:space="preserve">
-    <value>erro, Internet indisponível.</value>
+    <value>Erro, Internet indisponível.</value>
   </data>
   <data name="NoPosterFound" xml:space="preserve">
     <value>Sem poster na procura.</value>
@@ -403,7 +403,7 @@ Tentar Procurar por outro Título
     <value>~ OU ~</value>
   </data>
   <data name="OutOf" xml:space="preserve">
-    <value>fora de</value>
+    <value>de</value>
   </data>
   <data name="PickIconWithName" xml:space="preserve">
     <value>Escolher Ícone de {0}</value>
@@ -434,7 +434,7 @@ Tentar Procurar por outro Título
   </data>
   <data name="RestartAsAdmin" xml:space="preserve">
     <value>Isto exige direitos de administrador, utilizar em modo de administrador.
-Quer reinicar o Folicon em modo admin ?</value>
+Quer reinicar o Folicon em modo admin?</value>
   </data>
   <data name="RestartExplorer" xml:space="preserve">
     <value>Reinicar Explorador</value>
@@ -468,7 +468,7 @@ e renovar o cache dos Ícones?</value>
     <value>Resultados da Procura</value>
   </data>
   <data name="SeeMorePosters" xml:space="preserve">
-    <value>Mostar mais poster/capas.</value>
+    <value>Mostar mais posteres/capas.</value>
   </data>
   <data name="SelectFolder" xml:space="preserve">
     <value>Escolher Pasta</value>
@@ -522,7 +522,7 @@ e renovar o cache dos Ícones?</value>
     <value>Para Forçar Reínicio, clique em Reiniciar Explorador.</value>
   </data>
   <data name="TV" xml:space="preserve">
-    <value>televisão</value>
+    <value>Televisão</value>
   </data>
   <data name="Undo" xml:space="preserve">
     <value>Desfazer</value>
@@ -534,25 +534,25 @@ e renovar o cache dos Ícones?</value>
     <value>Atualizar agora</value>
   </data>
   <data name="UsePosterOverlay" xml:space="preserve">
-    <value>Utilizar o Poster overlay</value>
+    <value>Utilizar o overlay do Poster</value>
   </data>
   <data name="Version" xml:space="preserve">
-    <value>Versão :</value>
+    <value>Versão:</value>
   </data>
   <data name="VideoUnavailable" xml:space="preserve">
-    <value>Vídeo não disponível!</value>
+    <value>Vídeo indisponível!</value>
   </data>
   <data name="Year" xml:space="preserve">
     <value>Ano</value>
   </data>
   <data name="FileIsInUse" xml:space="preserve">
-    <value>O Ficheiro já está a ser utilizado.</value>
+    <value>Ficheiro já está a ser utilizado.</value>
   </data>
   <data name="UnauthorizedAccess" xml:space="preserve">
-    <value>O Ficheiro não pode ser acessado.</value>
+    <value>Ficheiro não pode ser acessado.</value>
   </data>
   <data name="FailedFileAccessAt" xml:space="preserve">
-    <value>Falha ao aceder ao ficheiro em {0}. Pode não ter permissões para aceder a este ficheiro. Tente em modo de administrador.</value>
+    <value>Falha ao aceder ao ficheiro em {0}. Pode não ter permissões para aceder ao ficheiro. Tente em modo de administrador.</value>
   </data>
   <data name="FailedToSaveMediaInfoAt" xml:space="preserve">
     <value>Falha em salvar a info media em {0}, Verifique as permissões de acesso</value>
@@ -564,7 +564,7 @@ e renovar o cache dos Ícones?</value>
     <value>Sem Permissão de Escrita</value>
   </data>
   <data name="EnableErrorReporting" xml:space="preserve">
-    <value>Ativar Reporte de Erros</value>
+    <value>Ativar Reportar Erros</value>
   </data>
   <data name="EnableErrorReportingTip" xml:space="preserve">
     <value>Enviar relatórios de erro para ajudar a melhorar FoliCon</value>
